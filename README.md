@@ -4,7 +4,8 @@ metaai : Meta AI App # formerly Meta View # Llama 4
 
 ## Meta AI
 
-![metaai001.png](./media/metaai001.png)
+[![metaai001.png](./media/metaai001.png)](https://ai.meta.com/)
+
 
 ## Notes
 ```
