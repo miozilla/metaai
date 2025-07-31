@@ -6,7 +6,7 @@ metaai : Meta AI App # formerly Meta View # Llama 4
 
 ![metaai001.png](./media/metaai001.png)
 
-## Note
+## Notes
 ```
 Malaysia is still not supported for many of these advanced features, according to user reports from early 2025.
 The availability of Meta AI is currently restricted to countries such as the United States, Australia, Canada, and several others, primarily due to varying regulatory environments.
